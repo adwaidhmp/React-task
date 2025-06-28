@@ -1,0 +1,12 @@
+.external{
+    font-size: larger;
+    padding: 50px;
+    color:rgb(0, 46, 0);
+    background-color: aqua;
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    color: black;
+}
