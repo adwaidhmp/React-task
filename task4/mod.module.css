@@ -1,0 +1,12 @@
+
+.bg {
+  background-color: rgb(234, 119, 119);
+  padding: 20px;
+  text-align: center;
+}
+
+.hd {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-weight: bold;
+}
