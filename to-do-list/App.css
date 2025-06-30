@@ -1,0 +1,47 @@
+.main{
+  display: flex;
+  place-content: center;
+  padding: 10px;
+  color:white;
+}
+
+.todo{
+  padding: 10px;
+  border-radius: 10px;
+  background:linear-gradient(rgb(99, 27, 122),rgb(67, 189, 193));
+  height: 500px;
+  width: 500px;
+}
+.inp{
+  padding-left: 10px;
+  border-radius: 50px;
+  height: 30px;
+  width: 240px;
+}
+.btn{
+  border-radius: 20px;
+  height: 35px;
+  width: 40px;
+  position: relative;
+  left: 10px;
+  color: greenyellow;
+}
+.btn2{
+  color: rgb(255, 0, 0);
+    border-radius: 20px;
+    position: absolute;
+    right: 630px;
+    width: 30px;
+    
+}
+.list{
+  color: white;
+  
+}
+.btn3{
+  border-radius: 20px;
+  position: relative;
+  left: 180px;
+  background-color: red;
+  color:white;
+}
